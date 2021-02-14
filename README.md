@@ -39,7 +39,7 @@ Hi, I'm Emmanuel, a passionate self-taught fullstack mobile and web developer fr
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-umeh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Emmanuel's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -48,9 +48,9 @@ Hi, I'm Emmanuel, a passionate self-taught fullstack mobile and web developer fr
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
 </a>
