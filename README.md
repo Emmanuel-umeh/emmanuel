@@ -15,10 +15,10 @@
 
 Hi, I'm Emmanuel, a passionate self-taught fullstack mobile and web developer from Nigeria.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on a logistic mobile app with react native
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on and learn with other developers
+- 💬 Can connect with me on social media, Twitter [here](https://twitter.com/i_am__manuel), or here on github
 
 **Languages and Tools:**  
 
